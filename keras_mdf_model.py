@@ -7,7 +7,7 @@ from modeci_mdf.execution_engine import EvaluableGraph
 from modeci_mdf.utils import simple_connect
 from modeci_mdf.mdf import *
 
-# this python script loads keras model that was trained in the last jupyter notebook and parses the structure and then the structure was exported to the eqiovalent network in mdf
+# this python script loads keras model that was trained in the last jupyter notebook and parses the structure and then the structure was exported to the equivalent network in mdf
 
 def keras_model():
     """
